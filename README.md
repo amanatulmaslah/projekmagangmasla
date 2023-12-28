@@ -1,2 +1,2 @@
 # projekmagangmasla
-ini hanya latihan Repository
+ini hanya latihan Repository yang sewaktu waktu bisa hilang..
